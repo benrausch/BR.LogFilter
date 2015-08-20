@@ -1,0 +1,1 @@
+Drop Sitecore.Logging.dll into the lib folder of the solution.
